@@ -55,7 +55,15 @@
         text-shadow: 8px 8px #ff1f8f,
                      20px 20px #000000;
 }
-
+#credits a:link {
+    color:white;
+}
+#credits a:visited {
+    color:whitesmoke;
+  }
+#credits a:hover {
+    color:red;
+}
 
 @media screen and (max-width: 500px) {
     .text-container h1 {
